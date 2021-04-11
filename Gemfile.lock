@@ -265,7 +265,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  github-pages (>= 207)
+  github-pages (>= 214)
   html-proofer (>= 3.13.0)
   tzinfo-data
 
